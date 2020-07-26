@@ -1,0 +1,51 @@
+body{
+	background-color: #ededed;
+}
+
+#main{
+	background-color: white;
+	width: 60%;
+	margin: 10px auto;
+	height: 600px;
+}
+
+
+
+#task{
+	border-left: 0px;
+	border-right: 0px;
+	border-top: 0px;
+	border-bottom: 1px solid red;
+	margin: 15px;
+	width: 500px;
+	outline: none;
+}
+button{
+	width: 100px;
+	outline: none;
+	background-color: #333333;
+	 border:0px;
+	 border-radius: 20px;
+	 color: white;
+}
+
+li{
+	list-style: upper-roman;
+
+}
+
+.btn{
+	justify-content: flex-end;
+	margin-left: 2cm;
+}
+
+.btn1{
+	margin-left: 5px;
+}
+
+h1{
+	text-align: center;
+	font-family: Trajan Pro;
+	margin-bottom: 2cm;
+	color: #137aba;
+}
